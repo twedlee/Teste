@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670a42f9-3edf-45cf-aa26-6001fe562bc4" name="Default Changelist" comment="" />
+    <list default="true" id="670a42f9-3edf-45cf-aa26-6001fe562bc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
+    </list>
     <list id="fdbe17b0-5f37-4bfc-9f8f-6fd063275a5e" name="Revert &quot;Created amazing print&quot;" comment="Revert &quot;Created amazing print&quot;&#10;&#10;This reverts commit 974be95" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,35 +22,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="37" />
-          <entry key="txt" value="26" />
+          <entry key="py" value="63" />
+          <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="37" />
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="Python" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/teste.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -65,7 +73,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="974be95c7f562b3b090b04ca9ee6d332428311c8" />
+        <entry key="$PROJECT_DIR$" value="titouan" />
       </map>
     </option>
     <option name="RESET_MODE" value="HARD" />
@@ -143,6 +151,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.teste" />
+        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -164,19 +173,27 @@
       <option name="project" value="LOCAL" />
       <updated>1534895780329</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added line at top of file">
+      <created>1534897607476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534897607476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="25" width="1303" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.44371942" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49960223" weight="0.44371942" />
       <window_info anchor="bottom" id="Python Console" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.8107667" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" weight="0.8107667" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003978" side_tool="true" weight="0.44371942" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
@@ -222,13 +239,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Now I print Rafa's name!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now I print Rafa's name!" />
+    <MESSAGE value="Added line at top of file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added line at top of file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/teste.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
