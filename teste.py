@@ -1,11 +1,9 @@
 print("Primeiro print")
 
-print("Titouan")
-
-print("Rafaaaa")
-
 print ("Noooovo printtt")
 
 print ("Eita")
+
+print("IIIIIIIIIIIIIII")
 
 a = 5
